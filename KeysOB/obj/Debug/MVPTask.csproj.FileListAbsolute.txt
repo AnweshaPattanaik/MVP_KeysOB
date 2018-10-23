@@ -1,0 +1,194 @@
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\ApplicationInsights.config
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\MVPTask.dll.config
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\MVPTask.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\MVPTask.pdb
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\csc.exe
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\csc.exe.config
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\csc.rsp
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\csi.exe
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\csi.exe.config
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\csi.rsp
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\System.AppContext.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\System.Collections.Immutable.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\System.Console.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\System.Diagnostics.Process.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\System.IO.Compression.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\System.IO.FileSystem.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\System.IO.Pipes.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\System.Reflection.Metadata.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\System.Security.AccessControl.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\System.Security.Claims.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\System.Security.Principal.Windows.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\System.Threading.Thread.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\System.ValueTuple.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\System.Xml.XmlDocument.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\System.Xml.XPath.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\vbc.exe
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\vbc.exe.config
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\vbc.rsp
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\VBCSCompiler.exe
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\roslyn\VBCSCompiler.exe.config
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\Antlr3.Runtime.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\EntityFramework.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\EntityFramework.SqlServer.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\Microsoft.AI.Agent.Intercept.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\Microsoft.AI.DependencyCollector.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\Microsoft.AI.Web.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\Microsoft.AI.WindowsServer.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\Microsoft.ApplicationInsights.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\Microsoft.Web.Infrastructure.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\Newtonsoft.Json.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\System.Diagnostics.DiagnosticSource.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\System.Web.Helpers.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\System.Web.Mvc.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\System.Web.Optimization.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\System.Web.Razor.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\System.Web.WebPages.Deployment.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\System.Web.WebPages.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\System.Web.WebPages.Razor.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\WebGrease.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\EntityFramework.xml
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\EntityFramework.SqlServer.xml
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\System.Web.Helpers.xml
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\System.Web.Mvc.xml
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\System.Web.Optimization.xml
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\System.Web.Razor.xml
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\System.Web.WebPages.xml
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\System.Web.WebPages.Deployment.xml
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\System.Web.WebPages.Razor.xml
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\Newtonsoft.Json.xml
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\Antlr3.Runtime.pdb
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\System.Diagnostics.DiagnosticSource.xml
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\Microsoft.AI.DependencyCollector.xml
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\Microsoft.AI.WindowsServer.xml
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\Microsoft.AI.Web.xml
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\obj\Debug\MVPTask.csprojAssemblyReference.cache
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\obj\Debug\MVPTask.csproj.CoreCompileInputs.cache
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\obj\Debug\MVPTask.csproj.CopyComplete
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\obj\Debug\MVPTask.dll
+D:\INDUSTRY CONNECT\Internship\MVPTask-master\MVPTask-master\MVPTask\obj\Debug\MVPTask.pdb
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\ApplicationInsights.config
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\MVPTask.dll.config
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\MVPTask.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\MVPTask.pdb
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\csc.exe
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\csc.exe.config
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\csc.rsp
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\csi.exe
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\csi.exe.config
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\csi.rsp
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\System.AppContext.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\System.Console.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\System.IO.Compression.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\System.IO.Pipes.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\System.Security.Claims.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\System.Threading.Thread.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\System.ValueTuple.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\System.Xml.XPath.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\vbc.exe
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\vbc.exe.config
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\vbc.rsp
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\VBCSCompiler.exe
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\Antlr3.Runtime.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\EntityFramework.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\EntityFramework.SqlServer.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\Microsoft.AI.Web.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\Microsoft.ApplicationInsights.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\Newtonsoft.Json.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\System.Web.Helpers.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\System.Web.Mvc.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\System.Web.Optimization.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\System.Web.Razor.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\System.Web.WebPages.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\System.Web.WebPages.Razor.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\WebGrease.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\EntityFramework.xml
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\EntityFramework.SqlServer.xml
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\System.Web.Helpers.xml
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\System.Web.Mvc.xml
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\System.Web.Optimization.xml
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\System.Web.Razor.xml
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\System.Web.WebPages.xml
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\System.Web.WebPages.Razor.xml
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\Newtonsoft.Json.xml
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\Antlr3.Runtime.pdb
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\Microsoft.AI.Web.xml
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\obj\Debug\MVPTask.csprojAssemblyReference.cache
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\obj\Debug\MVPTask.csproj.CoreCompileInputs.cache
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\obj\Debug\MVPTask.csproj.CopyComplete
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\obj\Debug\MVPTask.dll
+C:\Users\anwes\source\repos\MVPTask-master\MVPTask\obj\Debug\MVPTask.pdb
